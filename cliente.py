@@ -91,5 +91,3 @@ plt.title("Imagen Recibida")
 plt.axis("off")
 plt.imshow(img2)
 plt.show()
-
-print(np.array_equal(img,img2))
